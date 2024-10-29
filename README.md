@@ -1,3 +1,9 @@
 # C-sharp-Projects
 
-This is where all my prjects from the Tech Achademy's C-Sharp program are stored
+# Projects:
+
+Car insurance:
+This is a site that calculates car insurance based off of the input
+
+Student Database using code-first:
+A simple database that adds a student into it based on the code given
